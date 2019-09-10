@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "53299673923",
+    "firebase_url": "https://hw2-guy-and-dor-1567849475100.firebaseio.com",
+    "project_id": "hw2-guy-and-dor-1567849475100",
+    "storage_bucket": "hw2-guy-and-dor-1567849475100.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53299673923:android:70072e790df00924250df6",
+        "android_client_info": {
+          "package_name": "com.example.froggy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53299673923-vkv0mqf7o0ur53kmt7ge5al0t9cc5q5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.froggy",
+            "certificate_hash": "643cf2d921a89f65d0eb4fa746783f3e659d2f14"
+          }
+        },
+        {
+          "client_id": "53299673923-g2lh2vqgsp5qclkk2dhkmg5mkn4bk178.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4CM_dDPzUyDgFMxwXuB_JoKOc4l4Q3GM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53299673923-g2lh2vqgsp5qclkk2dhkmg5mkn4bk178.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
